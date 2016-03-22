@@ -1,2 +1,3 @@
 # Notes
-Collection of notes to myself
+
+Just a collection of notes to myself
